@@ -22,8 +22,5 @@ phases:
 artifacts:
   files:
     - appspec.yml
-    - index.js
-    - index.html
-    - scripts/*
-    - package.json
-    - node_modules/*
+    - source
+    - scripts
